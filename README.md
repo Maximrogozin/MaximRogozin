@@ -11,12 +11,10 @@ I am a web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%80%D0%BE%D0%B3%D0%BE%D0%B7%D0%B8%D0%BD-441122291/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <!-- <a href="https://t.me/Autmaxcapital" target="_blank">
+    <a href="https://t.me/Autmaxcapital" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
-
----
 
 ### 💻 Hard skills:
 
